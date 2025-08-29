@@ -1,0 +1,3082 @@
+{
+  "chain_24064": {
+    "severity_prob": 0.739,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.702,
+    "apt_threshold": 0.5,
+    "org": "lazarus",
+    "org_prob": 0.5607,
+    "org_margin": 0.3777,
+    "per_org_prob": {
+      "lazarus": 0.5607,
+      "APT28": 0.183,
+      "APT32": 0.1553
+    },
+    "signals": {
+      "assoc_conf": 0.65,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.8,
+      "judge_conf": 0.65
+    }
+  },
+  "chain_17633": {
+    "severity_prob": 0.7966,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.7106,
+    "apt_threshold": 0.5,
+    "org": null,
+    "org_prob": 0.0,
+    "org_margin": 0.3089,
+    "per_org_prob": {
+      "Equation": 0.5149,
+      "APT28": 0.2061,
+      "FIN7": 0.1521
+    },
+    "signals": {
+      "assoc_conf": 0.65,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.9,
+      "judge_conf": 0.65
+    }
+  },
+  "chain_8990": {
+    "severity_prob": 0.739,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.7765,
+    "apt_threshold": 0.5,
+    "org": "Equation",
+    "org_prob": 0.7059,
+    "org_margin": 0.5545,
+    "per_org_prob": {
+      "Equation": 0.7059,
+      "APT32": 0.1514,
+      "APT28": 0.1427
+    },
+    "signals": {
+      "assoc_conf": 0.65,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.8,
+      "judge_conf": 0.65
+    }
+  },
+  "chain_20216": {
+    "severity_prob": 0.739,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.6498,
+    "apt_threshold": 0.5,
+    "org": null,
+    "org_prob": 0.0,
+    "org_margin": 0.2055,
+    "per_org_prob": {
+      "APT32": 0.4827,
+      "APT28": 0.2773,
+      "FIN7": 0.24
+    },
+    "signals": {
+      "assoc_conf": 0.65,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.8,
+      "judge_conf": 0.65
+    }
+  },
+  "chain_25635": {
+    "severity_prob": 0.739,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.7144,
+    "apt_threshold": 0.5,
+    "org": "APT-C-09",
+    "org_prob": 0.5885,
+    "org_margin": 0.3988,
+    "per_org_prob": {
+      "APT-C-09": 0.5885,
+      "APT32": 0.1897,
+      "APT28": 0.1237
+    },
+    "signals": {
+      "assoc_conf": 0.65,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.8,
+      "judge_conf": 0.65
+    }
+  },
+  "chain_19616": {
+    "severity_prob": 0.6954,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.6042,
+    "apt_threshold": 0.5,
+    "org": null,
+    "org_prob": 0.0,
+    "org_margin": 0.1853,
+    "per_org_prob": {
+      "Equation": 0.4364,
+      "APT28": 0.2511,
+      "lazarus": 0.1831
+    },
+    "signals": {
+      "assoc_conf": 0.65,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.7,
+      "judge_conf": 0.65
+    }
+  },
+  "chain_12846": {
+    "severity_prob": 0.8662,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.7371,
+    "apt_threshold": 0.5,
+    "org": null,
+    "org_prob": 0.0,
+    "org_margin": 0.2643,
+    "per_org_prob": {
+      "APT28": 0.4594,
+      "lazarus": 0.1951,
+      "FIN7": 0.173
+    },
+    "signals": {
+      "assoc_conf": 0.85,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.9,
+      "judge_conf": 0.85
+    }
+  },
+  "chain_8575": {
+    "severity_prob": 0.6954,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.6595,
+    "apt_threshold": 0.5,
+    "org": null,
+    "org_prob": 0.0,
+    "org_margin": 0.3028,
+    "per_org_prob": {
+      "lazarus": 0.5379,
+      "APT32": 0.2352,
+      "APT28": 0.2269
+    },
+    "signals": {
+      "assoc_conf": 0.65,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.7,
+      "judge_conf": 0.65
+    }
+  },
+  "chain_4418": {
+    "severity_prob": 0.6954,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.6648,
+    "apt_threshold": 0.5,
+    "org": "APT28",
+    "org_prob": 0.5959,
+    "org_margin": 0.1918,
+    "per_org_prob": {
+      "APT28": 0.5959,
+      "kimsuky": 0.4041,
+      "APT32": 0.0
+    },
+    "signals": {
+      "assoc_conf": 0.65,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.7,
+      "judge_conf": 0.65
+    }
+  },
+  "chain_1493": {
+    "severity_prob": 0.8662,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.6442,
+    "apt_threshold": 0.5,
+    "org": null,
+    "org_prob": 0.0,
+    "org_margin": 0.0945,
+    "per_org_prob": {
+      "Sidewinder": 0.2704,
+      "APT32": 0.1759,
+      "APT28": 0.1512
+    },
+    "signals": {
+      "assoc_conf": 0.85,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.9,
+      "judge_conf": 0.85
+    }
+  },
+  "chain_19741": {
+    "severity_prob": 0.739,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.7187,
+    "apt_threshold": 0.5,
+    "org": "lazarus",
+    "org_prob": 0.6115,
+    "org_margin": 0.3743,
+    "per_org_prob": {
+      "lazarus": 0.6115,
+      "APT28": 0.2371,
+      "APT34": 0.1497
+    },
+    "signals": {
+      "assoc_conf": 0.65,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.8,
+      "judge_conf": 0.65
+    }
+  },
+  "chain_2048": {
+    "severity_prob": 0.739,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.6846,
+    "apt_threshold": 0.5,
+    "org": null,
+    "org_prob": 0.0,
+    "org_margin": 0.3611,
+    "per_org_prob": {
+      "Equation": 0.5172,
+      "APT32": 0.1562,
+      "APT28": 0.1175
+    },
+    "signals": {
+      "assoc_conf": 0.65,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.8,
+      "judge_conf": 0.65
+    }
+  },
+  "chain_15234": {
+    "severity_prob": 0.739,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.6114,
+    "apt_threshold": 0.5,
+    "org": null,
+    "org_prob": 0.0,
+    "org_margin": 0.1541,
+    "per_org_prob": {
+      "lazarus": 0.401,
+      "APT-C-09": 0.2468,
+      "APT32": 0.2002
+    },
+    "signals": {
+      "assoc_conf": 0.65,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.8,
+      "judge_conf": 0.65
+    }
+  },
+  "chain_20730": {
+    "severity_prob": 0.739,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.5295,
+    "apt_threshold": 0.5,
+    "org": null,
+    "org_prob": 0.0,
+    "org_margin": 0.0252,
+    "per_org_prob": {
+      "APT28": 0.2604,
+      "lazarus": 0.2352,
+      "APT32": 0.233
+    },
+    "signals": {
+      "assoc_conf": 0.65,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.8,
+      "judge_conf": 0.65
+    }
+  },
+  "chain_8407": {
+    "severity_prob": 0.8662,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.7958,
+    "apt_threshold": 0.5,
+    "org": "lazarus",
+    "org_prob": 0.5924,
+    "org_margin": 0.4312,
+    "per_org_prob": {
+      "lazarus": 0.5924,
+      "APT32": 0.1613,
+      "APT28": 0.1595
+    },
+    "signals": {
+      "assoc_conf": 0.85,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.9,
+      "judge_conf": 0.85
+    }
+  },
+  "chain_23590": {
+    "severity_prob": 0.739,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.6502,
+    "apt_threshold": 0.5,
+    "org": null,
+    "org_prob": 0.0,
+    "org_margin": 0.2802,
+    "per_org_prob": {
+      "APT28": 0.4544,
+      "APT32": 0.1742,
+      "Darkhotel": 0.1302
+    },
+    "signals": {
+      "assoc_conf": 0.65,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.8,
+      "judge_conf": 0.65
+    }
+  },
+  "chain_3389": {
+    "severity_prob": 0.6954,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.6078,
+    "apt_threshold": 0.5,
+    "org": null,
+    "org_prob": 0.0,
+    "org_margin": 0.1586,
+    "per_org_prob": {
+      "Sidewinder": 0.4561,
+      "APT32": 0.2975,
+      "APT28": 0.2453
+    },
+    "signals": {
+      "assoc_conf": 0.65,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.7,
+      "judge_conf": 0.65
+    }
+  },
+  "chain_22550": {
+    "severity_prob": 0.6954,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.605,
+    "apt_threshold": 0.5,
+    "org": null,
+    "org_prob": 0.0,
+    "org_margin": 0.1419,
+    "per_org_prob": {
+      "lazarus": 0.4551,
+      "APT32": 0.3131,
+      "FIN7": 0.2318
+    },
+    "signals": {
+      "assoc_conf": 0.65,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.7,
+      "judge_conf": 0.65
+    }
+  },
+  "chain_23077": {
+    "severity_prob": 0.8662,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.7425,
+    "apt_threshold": 0.5,
+    "org": null,
+    "org_prob": 0.0,
+    "org_margin": 0.2603,
+    "per_org_prob": {
+      "APT34": 0.4785,
+      "APT32": 0.2182,
+      "APT28": 0.1827
+    },
+    "signals": {
+      "assoc_conf": 0.85,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.9,
+      "judge_conf": 0.85
+    }
+  },
+  "chain_7122": {
+    "severity_prob": 0.8662,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.7373,
+    "apt_threshold": 0.5,
+    "org": null,
+    "org_prob": 0.0,
+    "org_margin": 0.2513,
+    "per_org_prob": {
+      "lazarus": 0.4652,
+      "APT32": 0.2139,
+      "FIN7": 0.1694
+    },
+    "signals": {
+      "assoc_conf": 0.85,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.9,
+      "judge_conf": 0.85
+    }
+  },
+  "chain_6560": {
+    "severity_prob": 0.739,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.6646,
+    "apt_threshold": 0.5,
+    "org": null,
+    "org_prob": 0.0,
+    "org_margin": 0.2841,
+    "per_org_prob": {
+      "Equation": 0.4926,
+      "APT28": 0.2085,
+      "lazarus": 0.1829
+    },
+    "signals": {
+      "assoc_conf": 0.65,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.8,
+      "judge_conf": 0.65
+    }
+  },
+  "chain_6809": {
+    "severity_prob": 0.6954,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.5921,
+    "apt_threshold": 0.5,
+    "org": null,
+    "org_prob": 0.0,
+    "org_margin": 0.1362,
+    "per_org_prob": {
+      "APT32": 0.4241,
+      "APT28": 0.2879,
+      "lazarus": 0.2859
+    },
+    "signals": {
+      "assoc_conf": 0.65,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.7,
+      "judge_conf": 0.65
+    }
+  },
+  "chain_22388": {
+    "severity_prob": 0.739,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.5875,
+    "apt_threshold": 0.5,
+    "org": null,
+    "org_prob": 0.0,
+    "org_margin": 0.1111,
+    "per_org_prob": {
+      "APT28": 0.3579,
+      "APT32": 0.2468,
+      "APT34": 0.1984
+    },
+    "signals": {
+      "assoc_conf": 0.65,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.8,
+      "judge_conf": 0.65
+    }
+  },
+  "chain_16126": {
+    "severity_prob": 0.9985,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.9693,
+    "apt_threshold": 0.5,
+    "org": null,
+    "org_prob": 0.0,
+    "org_margin": 0.2885,
+    "per_org_prob": {
+      "FIN7": 0.5106,
+      "APT28": 0.2221,
+      "APT32": 0.1378
+    },
+    "signals": {
+      "assoc_conf": 0.85,
+      "judge_level": 0.8,
+      "judge_risk_norm": 1.0,
+      "judge_conf": 0.85
+    }
+  },
+  "chain_12851": {
+    "severity_prob": 0.739,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.6306,
+    "apt_threshold": 0.5,
+    "org": null,
+    "org_prob": 0.0,
+    "org_margin": 0.15,
+    "per_org_prob": {
+      "APT28": 0.4524,
+      "APT32": 0.3024,
+      "Bitter": 0.2256
+    },
+    "signals": {
+      "assoc_conf": 0.65,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.8,
+      "judge_conf": 0.65
+    }
+  },
+  "chain_6581": {
+    "severity_prob": 0.739,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.6088,
+    "apt_threshold": 0.5,
+    "org": null,
+    "org_prob": 0.0,
+    "org_margin": 0.1655,
+    "per_org_prob": {
+      "lazarus": 0.3902,
+      "APT28": 0.2247,
+      "APT32": 0.1812
+    },
+    "signals": {
+      "assoc_conf": 0.65,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.8,
+      "judge_conf": 0.65
+    }
+  },
+  "chain_12145": {
+    "severity_prob": 0.8662,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.7855,
+    "apt_threshold": 0.5,
+    "org": "lazarus",
+    "org_prob": 0.5879,
+    "org_margin": 0.3543,
+    "per_org_prob": {
+      "lazarus": 0.5879,
+      "APT28": 0.2336,
+      "APT32": 0.1236
+    },
+    "signals": {
+      "assoc_conf": 0.85,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.9,
+      "judge_conf": 0.85
+    }
+  },
+  "chain_4032": {
+    "severity_prob": 0.739,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.64,
+    "apt_threshold": 0.5,
+    "org": null,
+    "org_prob": 0.0,
+    "org_margin": 0.2609,
+    "per_org_prob": {
+      "lazarus": 0.4345,
+      "APT32": 0.1736,
+      "APT28": 0.1604
+    },
+    "signals": {
+      "assoc_conf": 0.65,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.8,
+      "judge_conf": 0.65
+    }
+  },
+  "chain_1032": {
+    "severity_prob": 0.8239,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.6978,
+    "apt_threshold": 0.5,
+    "org": null,
+    "org_prob": 0.0,
+    "org_margin": 0.1921,
+    "per_org_prob": {
+      "APT32": 0.468,
+      "APT28": 0.2758,
+      "FIN7": 0.2562
+    },
+    "signals": {
+      "assoc_conf": 0.85,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.8,
+      "judge_conf": 0.85
+    }
+  },
+  "chain_16329": {
+    "severity_prob": 0.8662,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.8252,
+    "apt_threshold": 0.5,
+    "org": "APT28",
+    "org_prob": 0.6618,
+    "org_margin": 0.5244,
+    "per_org_prob": {
+      "APT28": 0.6618,
+      "APT32": 0.1375,
+      "FIN7": 0.1059
+    },
+    "signals": {
+      "assoc_conf": 0.85,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.9,
+      "judge_conf": 0.85
+    }
+  },
+  "chain_16060": {
+    "severity_prob": 0.8239,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.7332,
+    "apt_threshold": 0.5,
+    "org": null,
+    "org_prob": 0.0,
+    "org_margin": 0.2863,
+    "per_org_prob": {
+      "lazarus": 0.5392,
+      "APT28": 0.253,
+      "APT34": 0.1163
+    },
+    "signals": {
+      "assoc_conf": 0.85,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.8,
+      "judge_conf": 0.85
+    }
+  },
+  "chain_3084": {
+    "severity_prob": 0.739,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.6924,
+    "apt_threshold": 0.5,
+    "org": null,
+    "org_prob": 0.0,
+    "org_margin": 0.3682,
+    "per_org_prob": {
+      "Sidewinder": 0.5367,
+      "APT28": 0.1685,
+      "APT32": 0.1478
+    },
+    "signals": {
+      "assoc_conf": 0.65,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.8,
+      "judge_conf": 0.65
+    }
+  },
+  "chain_17499": {
+    "severity_prob": 0.739,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.6883,
+    "apt_threshold": 0.5,
+    "org": "lazarus",
+    "org_prob": 0.5532,
+    "org_margin": 0.3011,
+    "per_org_prob": {
+      "lazarus": 0.5532,
+      "APT28": 0.2521,
+      "APT32": 0.1947
+    },
+    "signals": {
+      "assoc_conf": 0.65,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.8,
+      "judge_conf": 0.65
+    }
+  },
+  "chain_5782": {
+    "severity_prob": 0.6954,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.6259,
+    "apt_threshold": 0.5,
+    "org": null,
+    "org_prob": 0.0,
+    "org_margin": 0.2103,
+    "per_org_prob": {
+      "lazarus": 0.4836,
+      "APT28": 0.2733,
+      "APT32": 0.243
+    },
+    "signals": {
+      "assoc_conf": 0.65,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.7,
+      "judge_conf": 0.65
+    }
+  },
+  "chain_14089": {
+    "severity_prob": 0.739,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.6156,
+    "apt_threshold": 0.5,
+    "org": null,
+    "org_prob": 0.0,
+    "org_margin": 0.2107,
+    "per_org_prob": {
+      "lazarus": 0.3906,
+      "APT32": 0.1799,
+      "FIN7": 0.1508
+    },
+    "signals": {
+      "assoc_conf": 0.65,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.8,
+      "judge_conf": 0.65
+    }
+  },
+  "chain_15121": {
+    "severity_prob": 0.9985,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.9733,
+    "apt_threshold": 0.5,
+    "org": "APT28",
+    "org_prob": 0.5559,
+    "org_margin": 0.3903,
+    "per_org_prob": {
+      "APT28": 0.5559,
+      "APT32": 0.1656,
+      "lazarus": 0.1267
+    },
+    "signals": {
+      "assoc_conf": 0.85,
+      "judge_level": 0.8,
+      "judge_risk_norm": 1.0,
+      "judge_conf": 0.85
+    }
+  },
+  "chain_23824": {
+    "severity_prob": 0.739,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.6325,
+    "apt_threshold": 0.5,
+    "org": null,
+    "org_prob": 0.0,
+    "org_margin": 0.0164,
+    "per_org_prob": {
+      "APT32": 0.5079,
+      "Darkhotel": 0.4915,
+      "Patchwork": 0.0002
+    },
+    "signals": {
+      "assoc_conf": 0.65,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.8,
+      "judge_conf": 0.65
+    }
+  },
+  "chain_15897": {
+    "severity_prob": 0.739,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.573,
+    "apt_threshold": 0.5,
+    "org": null,
+    "org_prob": 0.0,
+    "org_margin": 0.1367,
+    "per_org_prob": {
+      "Sidewinder": 0.3159,
+      "APT32": 0.1792,
+      "APT28": 0.1723
+    },
+    "signals": {
+      "assoc_conf": 0.65,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.8,
+      "judge_conf": 0.65
+    }
+  },
+  "chain_24220": {
+    "severity_prob": 0.739,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.6595,
+    "apt_threshold": 0.5,
+    "org": null,
+    "org_prob": 0.0,
+    "org_margin": 0.1609,
+    "per_org_prob": {
+      "Darkhotel": 0.5269,
+      "APT28": 0.366,
+      "lazarus": 0.107
+    },
+    "signals": {
+      "assoc_conf": 0.65,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.8,
+      "judge_conf": 0.65
+    }
+  },
+  "chain_5667": {
+    "severity_prob": 0.8662,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.7281,
+    "apt_threshold": 0.5,
+    "org": null,
+    "org_prob": 0.0,
+    "org_margin": 0.1697,
+    "per_org_prob": {
+      "APT32": 0.468,
+      "FIN7": 0.2983,
+      "Bitter": 0.2281
+    },
+    "signals": {
+      "assoc_conf": 0.85,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.9,
+      "judge_conf": 0.85
+    }
+  },
+  "chain_25120": {
+    "severity_prob": 0.6954,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.5854,
+    "apt_threshold": 0.5,
+    "org": null,
+    "org_prob": 0.0,
+    "org_margin": 0.1458,
+    "per_org_prob": {
+      "Darkhotel": 0.4039,
+      "APT28": 0.258,
+      "APT32": 0.205
+    },
+    "signals": {
+      "assoc_conf": 0.65,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.7,
+      "judge_conf": 0.65
+    }
+  },
+  "chain_12923": {
+    "severity_prob": 0.739,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.6736,
+    "apt_threshold": 0.5,
+    "org": null,
+    "org_prob": 0.0,
+    "org_margin": 0.3121,
+    "per_org_prob": {
+      "APT32": 0.5063,
+      "lazarus": 0.1943,
+      "APT28": 0.1143
+    },
+    "signals": {
+      "assoc_conf": 0.65,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.8,
+      "judge_conf": 0.65
+    }
+  },
+  "chain_17122": {
+    "severity_prob": 0.739,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.6673,
+    "apt_threshold": 0.5,
+    "org": null,
+    "org_prob": 0.0,
+    "org_margin": 0.3197,
+    "per_org_prob": {
+      "APT-C-09": 0.4853,
+      "Bitter": 0.1656,
+      "APT28": 0.145
+    },
+    "signals": {
+      "assoc_conf": 0.65,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.8,
+      "judge_conf": 0.65
+    }
+  },
+  "chain_8657": {
+    "severity_prob": 0.6954,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.6723,
+    "apt_threshold": 0.5,
+    "org": "lazarus",
+    "org_prob": 0.6075,
+    "org_margin": 0.2149,
+    "per_org_prob": {
+      "lazarus": 0.6075,
+      "APT28": 0.3925,
+      "APT32": 0.0
+    },
+    "signals": {
+      "assoc_conf": 0.65,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.7,
+      "judge_conf": 0.65
+    }
+  },
+  "chain_11251": {
+    "severity_prob": 0.6954,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.6211,
+    "apt_threshold": 0.5,
+    "org": null,
+    "org_prob": 0.0,
+    "org_margin": 0.1841,
+    "per_org_prob": {
+      "Darkhotel": 0.481,
+      "APT28": 0.2969,
+      "APT32": 0.0888
+    },
+    "signals": {
+      "assoc_conf": 0.65,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.7,
+      "judge_conf": 0.65
+    }
+  },
+  "chain_25467": {
+    "severity_prob": 0.8662,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.7028,
+    "apt_threshold": 0.5,
+    "org": null,
+    "org_prob": 0.0,
+    "org_margin": 0.1146,
+    "per_org_prob": {
+      "APT34": 0.4121,
+      "APT32": 0.2975,
+      "Sidewinder": 0.2863
+    },
+    "signals": {
+      "assoc_conf": 0.85,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.9,
+      "judge_conf": 0.85
+    }
+  },
+  "chain_3558": {
+    "severity_prob": 0.8662,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.7947,
+    "apt_threshold": 0.5,
+    "org": "APT32",
+    "org_prob": 0.62,
+    "org_margin": 0.3568,
+    "per_org_prob": {
+      "APT32": 0.62,
+      "APT28": 0.2632,
+      "APT34": 0.1155
+    },
+    "signals": {
+      "assoc_conf": 0.85,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.9,
+      "judge_conf": 0.85
+    }
+  },
+  "chain_12756": {
+    "severity_prob": 0.6954,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.6197,
+    "apt_threshold": 0.5,
+    "org": null,
+    "org_prob": 0.0,
+    "org_margin": 0.0539,
+    "per_org_prob": {
+      "APT28": 0.527,
+      "lazarus": 0.473,
+      "APT32": 0.0
+    },
+    "signals": {
+      "assoc_conf": 0.65,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.7,
+      "judge_conf": 0.65
+    }
+  },
+  "chain_8010": {
+    "severity_prob": 0.8662,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.7857,
+    "apt_threshold": 0.5,
+    "org": "FIN7",
+    "org_prob": 0.5827,
+    "org_margin": 0.3685,
+    "per_org_prob": {
+      "FIN7": 0.5827,
+      "APT28": 0.2143,
+      "APT32": 0.131
+    },
+    "signals": {
+      "assoc_conf": 0.85,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.9,
+      "judge_conf": 0.85
+    }
+  },
+  "chain_7958": {
+    "severity_prob": 0.739,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.6365,
+    "apt_threshold": 0.5,
+    "org": null,
+    "org_prob": 0.0,
+    "org_margin": 0.2048,
+    "per_org_prob": {
+      "lazarus": 0.447,
+      "APT28": 0.2422,
+      "APT32": 0.1951
+    },
+    "signals": {
+      "assoc_conf": 0.65,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.8,
+      "judge_conf": 0.65
+    }
+  },
+  "chain_12875": {
+    "severity_prob": 0.6954,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.6327,
+    "apt_threshold": 0.5,
+    "org": null,
+    "org_prob": 0.0,
+    "org_margin": 0.2728,
+    "per_org_prob": {
+      "APT28": 0.4769,
+      "APT32": 0.2041,
+      "lazarus": 0.1518
+    },
+    "signals": {
+      "assoc_conf": 0.65,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.7,
+      "judge_conf": 0.65
+    }
+  },
+  "chain_4292": {
+    "severity_prob": 0.739,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.889,
+    "apt_threshold": 0.5,
+    "org": "APT28",
+    "org_prob": 0.8954,
+    "org_margin": 0.8241,
+    "per_org_prob": {
+      "APT28": 0.8954,
+      "APT32": 0.0712,
+      "Darkhotel": 0.0334
+    },
+    "signals": {
+      "assoc_conf": 0.65,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.8,
+      "judge_conf": 0.65
+    }
+  },
+  "chain_19977": {
+    "severity_prob": 0.739,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.6376,
+    "apt_threshold": 0.5,
+    "org": null,
+    "org_prob": 0.0,
+    "org_margin": 0.1981,
+    "per_org_prob": {
+      "lazarus": 0.4527,
+      "APT32": 0.2546,
+      "APT28": 0.2064
+    },
+    "signals": {
+      "assoc_conf": 0.65,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.8,
+      "judge_conf": 0.65
+    }
+  },
+  "chain_18420": {
+    "severity_prob": 0.8662,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.7216,
+    "apt_threshold": 0.5,
+    "org": null,
+    "org_prob": 0.0,
+    "org_margin": 0.1446,
+    "per_org_prob": {
+      "FIN7": 0.4572,
+      "APT28": 0.3126,
+      "APT32": 0.2302
+    },
+    "signals": {
+      "assoc_conf": 0.85,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.9,
+      "judge_conf": 0.85
+    }
+  },
+  "chain_13556": {
+    "severity_prob": 0.6954,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.7032,
+    "apt_threshold": 0.5,
+    "org": "FIN7",
+    "org_prob": 0.6232,
+    "org_margin": 0.392,
+    "per_org_prob": {
+      "FIN7": 0.6232,
+      "APT28": 0.2312,
+      "APT32": 0.0774
+    },
+    "signals": {
+      "assoc_conf": 0.65,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.7,
+      "judge_conf": 0.65
+    }
+  },
+  "chain_24887": {
+    "severity_prob": 0.739,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.6773,
+    "apt_threshold": 0.5,
+    "org": null,
+    "org_prob": 0.0,
+    "org_margin": 0.342,
+    "per_org_prob": {
+      "APT34": 0.5044,
+      "Darkhotel": 0.1624,
+      "Bitter": 0.1143
+    },
+    "signals": {
+      "assoc_conf": 0.65,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.8,
+      "judge_conf": 0.65
+    }
+  },
+  "chain_11877": {
+    "severity_prob": 0.8662,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.7571,
+    "apt_threshold": 0.5,
+    "org": null,
+    "org_prob": 0.0,
+    "org_margin": 0.2933,
+    "per_org_prob": {
+      "APT32": 0.5138,
+      "APT28": 0.2205,
+      "Darkhotel": 0.1446
+    },
+    "signals": {
+      "assoc_conf": 0.85,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.9,
+      "judge_conf": 0.85
+    }
+  },
+  "chain_23659": {
+    "severity_prob": 0.8662,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.7529,
+    "apt_threshold": 0.5,
+    "org": null,
+    "org_prob": 0.0,
+    "org_margin": 0.2993,
+    "per_org_prob": {
+      "APT34": 0.4972,
+      "APT28": 0.1979,
+      "APT32": 0.1707
+    },
+    "signals": {
+      "assoc_conf": 0.85,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.9,
+      "judge_conf": 0.85
+    }
+  },
+  "chain_16681": {
+    "severity_prob": 0.8662,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.686,
+    "apt_threshold": 0.5,
+    "org": null,
+    "org_prob": 0.0,
+    "org_margin": 0.1318,
+    "per_org_prob": {
+      "APT32": 0.359,
+      "lazarus": 0.2273,
+      "FIN7": 0.2074
+    },
+    "signals": {
+      "assoc_conf": 0.85,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.9,
+      "judge_conf": 0.85
+    }
+  },
+  "chain_19739": {
+    "severity_prob": 0.739,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.5929,
+    "apt_threshold": 0.5,
+    "org": null,
+    "org_prob": 0.0,
+    "org_margin": 0.1936,
+    "per_org_prob": {
+      "Sidewinder": 0.3418,
+      "APT28": 0.1482,
+      "APT32": 0.1451
+    },
+    "signals": {
+      "assoc_conf": 0.65,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.8,
+      "judge_conf": 0.65
+    }
+  },
+  "chain_2104": {
+    "severity_prob": 0.6954,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.7807,
+    "apt_threshold": 0.5,
+    "org": "Darkhotel",
+    "org_prob": 0.7333,
+    "org_margin": 0.6376,
+    "per_org_prob": {
+      "Darkhotel": 0.7333,
+      "APT32": 0.0956,
+      "APT28": 0.086
+    },
+    "signals": {
+      "assoc_conf": 0.65,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.7,
+      "judge_conf": 0.65
+    }
+  },
+  "chain_4512": {
+    "severity_prob": 0.8662,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.6557,
+    "apt_threshold": 0.5,
+    "org": null,
+    "org_prob": 0.0,
+    "org_margin": 0.0714,
+    "per_org_prob": {
+      "Bitter": 0.3034,
+      "APT28": 0.2321,
+      "FIN7": 0.1812
+    },
+    "signals": {
+      "assoc_conf": 0.85,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.9,
+      "judge_conf": 0.85
+    }
+  },
+  "chain_4146": {
+    "severity_prob": 0.8662,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.6741,
+    "apt_threshold": 0.5,
+    "org": null,
+    "org_prob": 0.0,
+    "org_margin": 0.0891,
+    "per_org_prob": {
+      "FIN7": 0.3427,
+      "APT28": 0.2535,
+      "lazarus": 0.2057
+    },
+    "signals": {
+      "assoc_conf": 0.85,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.9,
+      "judge_conf": 0.85
+    }
+  },
+  "chain_7849": {
+    "severity_prob": 0.8662,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.7759,
+    "apt_threshold": 0.5,
+    "org": "APT32",
+    "org_prob": 0.5618,
+    "org_margin": 0.3344,
+    "per_org_prob": {
+      "APT32": 0.5618,
+      "APT28": 0.2274,
+      "APT34": 0.1382
+    },
+    "signals": {
+      "assoc_conf": 0.85,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.9,
+      "judge_conf": 0.85
+    }
+  },
+  "chain_1321": {
+    "severity_prob": 0.7904,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.71,
+    "apt_threshold": 0.5,
+    "org": null,
+    "org_prob": 0.0,
+    "org_margin": 0.308,
+    "per_org_prob": {
+      "Sidewinder": 0.5255,
+      "APT28": 0.2174,
+      "APT32": 0.1526
+    },
+    "signals": {
+      "assoc_conf": 0.85,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.7,
+      "judge_conf": 0.85
+    }
+  },
+  "chain_6714": {
+    "severity_prob": 0.739,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.7018,
+    "apt_threshold": 0.5,
+    "org": "Sidewinder",
+    "org_prob": 0.5655,
+    "org_margin": 0.3654,
+    "per_org_prob": {
+      "Sidewinder": 0.5655,
+      "APT28": 0.2001,
+      "APT32": 0.1539
+    },
+    "signals": {
+      "assoc_conf": 0.65,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.8,
+      "judge_conf": 0.65
+    }
+  },
+  "chain_10226": {
+    "severity_prob": 0.6954,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.6776,
+    "apt_threshold": 0.5,
+    "org": "APT-C-09",
+    "org_prob": 0.5757,
+    "org_margin": 0.3332,
+    "per_org_prob": {
+      "APT-C-09": 0.5757,
+      "APT28": 0.2425,
+      "APT32": 0.1807
+    },
+    "signals": {
+      "assoc_conf": 0.65,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.7,
+      "judge_conf": 0.65
+    }
+  },
+  "chain_530": {
+    "severity_prob": 0.739,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.6292,
+    "apt_threshold": 0.5,
+    "org": null,
+    "org_prob": 0.0,
+    "org_margin": 0.1805,
+    "per_org_prob": {
+      "lazarus": 0.437,
+      "APT28": 0.2566,
+      "FIN7": 0.2524
+    },
+    "signals": {
+      "assoc_conf": 0.65,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.8,
+      "judge_conf": 0.65
+    }
+  },
+  "chain_6574": {
+    "severity_prob": 0.739,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.599,
+    "apt_threshold": 0.5,
+    "org": null,
+    "org_prob": 0.0,
+    "org_margin": 0.0711,
+    "per_org_prob": {
+      "APT32": 0.4002,
+      "Darkhotel": 0.3291,
+      "APT28": 0.2704
+    },
+    "signals": {
+      "assoc_conf": 0.65,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.8,
+      "judge_conf": 0.65
+    }
+  },
+  "chain_20802": {
+    "severity_prob": 0.8662,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.6936,
+    "apt_threshold": 0.5,
+    "org": null,
+    "org_prob": 0.0,
+    "org_margin": 0.1424,
+    "per_org_prob": {
+      "lazarus": 0.3761,
+      "APT28": 0.2337,
+      "APT32": 0.2206
+    },
+    "signals": {
+      "assoc_conf": 0.85,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.9,
+      "judge_conf": 0.85
+    }
+  },
+  "chain_21565": {
+    "severity_prob": 0.739,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.7371,
+    "apt_threshold": 0.5,
+    "org": "Bitter",
+    "org_prob": 0.6265,
+    "org_margin": 0.4667,
+    "per_org_prob": {
+      "Bitter": 0.6265,
+      "APT32": 0.1598,
+      "lazarus": 0.0928
+    },
+    "signals": {
+      "assoc_conf": 0.65,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.8,
+      "judge_conf": 0.65
+    }
+  },
+  "chain_13965": {
+    "severity_prob": 0.739,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.6597,
+    "apt_threshold": 0.5,
+    "org": null,
+    "org_prob": 0.0,
+    "org_margin": 0.2581,
+    "per_org_prob": {
+      "Sidewinder": 0.4894,
+      "APT28": 0.2313,
+      "APT32": 0.1595
+    },
+    "signals": {
+      "assoc_conf": 0.65,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.8,
+      "judge_conf": 0.65
+    }
+  },
+  "chain_24578": {
+    "severity_prob": 0.739,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.6992,
+    "apt_threshold": 0.5,
+    "org": "APT32",
+    "org_prob": 0.581,
+    "org_margin": 0.31,
+    "per_org_prob": {
+      "APT32": 0.581,
+      "APT28": 0.271,
+      "FIN7": 0.1479
+    },
+    "signals": {
+      "assoc_conf": 0.65,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.8,
+      "judge_conf": 0.65
+    }
+  },
+  "chain_4588": {
+    "severity_prob": 0.8662,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.7559,
+    "apt_threshold": 0.5,
+    "org": null,
+    "org_prob": 0.0,
+    "org_margin": 0.3157,
+    "per_org_prob": {
+      "Equation": 0.5003,
+      "APT32": 0.1846,
+      "APT28": 0.1822
+    },
+    "signals": {
+      "assoc_conf": 0.85,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.9,
+      "judge_conf": 0.85
+    }
+  },
+  "chain_14339": {
+    "severity_prob": 0.739,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.6979,
+    "apt_threshold": 0.5,
+    "org": "APT-C-09",
+    "org_prob": 0.5608,
+    "org_margin": 0.35,
+    "per_org_prob": {
+      "APT-C-09": 0.5608,
+      "FIN7": 0.2108,
+      "APT28": 0.1322
+    },
+    "signals": {
+      "assoc_conf": 0.65,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.8,
+      "judge_conf": 0.65
+    }
+  },
+  "chain_19609": {
+    "severity_prob": 0.8662,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.6853,
+    "apt_threshold": 0.5,
+    "org": null,
+    "org_prob": 0.0,
+    "org_margin": 0.1176,
+    "per_org_prob": {
+      "APT-C-09": 0.3621,
+      "APT28": 0.2444,
+      "APT32": 0.1993
+    },
+    "signals": {
+      "assoc_conf": 0.85,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.9,
+      "judge_conf": 0.85
+    }
+  },
+  "chain_4232": {
+    "severity_prob": 0.6954,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.6466,
+    "apt_threshold": 0.5,
+    "org": null,
+    "org_prob": 0.0,
+    "org_margin": 0.2979,
+    "per_org_prob": {
+      "APT34": 0.5043,
+      "APT32": 0.2065,
+      "APT28": 0.1788
+    },
+    "signals": {
+      "assoc_conf": 0.65,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.7,
+      "judge_conf": 0.65
+    }
+  },
+  "chain_14598": {
+    "severity_prob": 0.739,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.6076,
+    "apt_threshold": 0.5,
+    "org": null,
+    "org_prob": 0.0,
+    "org_margin": 0.1903,
+    "per_org_prob": {
+      "APT-C-09": 0.3781,
+      "APT28": 0.1878,
+      "APT32": 0.1828
+    },
+    "signals": {
+      "assoc_conf": 0.65,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.8,
+      "judge_conf": 0.65
+    }
+  },
+  "chain_10567": {
+    "severity_prob": 0.739,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.5605,
+    "apt_threshold": 0.5,
+    "org": null,
+    "org_prob": 0.0,
+    "org_margin": 0.0659,
+    "per_org_prob": {
+      "FIN7": 0.3118,
+      "APT28": 0.2458,
+      "lazarus": 0.2313
+    },
+    "signals": {
+      "assoc_conf": 0.65,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.8,
+      "judge_conf": 0.65
+    }
+  },
+  "chain_18525": {
+    "severity_prob": 0.8662,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.7533,
+    "apt_threshold": 0.5,
+    "org": null,
+    "org_prob": 0.0,
+    "org_margin": 0.2971,
+    "per_org_prob": {
+      "APT28": 0.4992,
+      "APT32": 0.2021,
+      "FIN7": 0.1525
+    },
+    "signals": {
+      "assoc_conf": 0.85,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.9,
+      "judge_conf": 0.85
+    }
+  },
+  "chain_14710": {
+    "severity_prob": 0.8662,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.7155,
+    "apt_threshold": 0.5,
+    "org": null,
+    "org_prob": 0.0,
+    "org_margin": 0.1683,
+    "per_org_prob": {
+      "APT28": 0.4297,
+      "APT-C-09": 0.2614,
+      "lazarus": 0.1176
+    },
+    "signals": {
+      "assoc_conf": 0.85,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.9,
+      "judge_conf": 0.85
+    }
+  },
+  "chain_5358": {
+    "severity_prob": 0.739,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.6941,
+    "apt_threshold": 0.5,
+    "org": "APT32",
+    "org_prob": 0.5545,
+    "org_margin": 0.3386,
+    "per_org_prob": {
+      "APT32": 0.5545,
+      "APT28": 0.2159,
+      "Bitter": 0.1379
+    },
+    "signals": {
+      "assoc_conf": 0.65,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.8,
+      "judge_conf": 0.65
+    }
+  },
+  "chain_24206": {
+    "severity_prob": 0.739,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.6059,
+    "apt_threshold": 0.5,
+    "org": null,
+    "org_prob": 0.0,
+    "org_margin": 0.1523,
+    "per_org_prob": {
+      "APT28": 0.3878,
+      "FIN7": 0.2355,
+      "lazarus": 0.2068
+    },
+    "signals": {
+      "assoc_conf": 0.65,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.8,
+      "judge_conf": 0.65
+    }
+  },
+  "chain_5004": {
+    "severity_prob": 0.6954,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.7129,
+    "apt_threshold": 0.5,
+    "org": "APT28",
+    "org_prob": 0.6332,
+    "org_margin": 0.4332,
+    "per_org_prob": {
+      "APT28": 0.6332,
+      "lazarus": 0.2,
+      "APT32": 0.1667
+    },
+    "signals": {
+      "assoc_conf": 0.65,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.7,
+      "judge_conf": 0.65
+    }
+  },
+  "chain_21215": {
+    "severity_prob": 0.6954,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.9992,
+    "apt_threshold": 0.5,
+    "org": "APT28",
+    "org_prob": 0.9999,
+    "org_margin": 0.9999,
+    "per_org_prob": {
+      "APT28": 0.9999,
+      "Sidewinder": 0.0,
+      "APT32": 0.0
+    },
+    "signals": {
+      "assoc_conf": 0.65,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.7,
+      "judge_conf": 0.65
+    }
+  },
+  "chain_23293": {
+    "severity_prob": 0.739,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.8019,
+    "apt_threshold": 0.5,
+    "org": "Bitter",
+    "org_prob": 0.7576,
+    "org_margin": 0.6064,
+    "per_org_prob": {
+      "Bitter": 0.7576,
+      "lazarus": 0.1512,
+      "APT28": 0.0912
+    },
+    "signals": {
+      "assoc_conf": 0.65,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.8,
+      "judge_conf": 0.65
+    }
+  },
+  "chain_4000": {
+    "severity_prob": 0.739,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.6512,
+    "apt_threshold": 0.5,
+    "org": null,
+    "org_prob": 0.0,
+    "org_margin": 0.2002,
+    "per_org_prob": {
+      "lazarus": 0.4887,
+      "APT28": 0.2885,
+      "FIN7": 0.2222
+    },
+    "signals": {
+      "assoc_conf": 0.65,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.8,
+      "judge_conf": 0.65
+    }
+  },
+  "chain_14889": {
+    "severity_prob": 0.6954,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.5434,
+    "apt_threshold": 0.5,
+    "org": null,
+    "org_prob": 0.0,
+    "org_margin": 0.1136,
+    "per_org_prob": {
+      "Darkhotel": 0.317,
+      "APT28": 0.2034,
+      "lazarus": 0.16
+    },
+    "signals": {
+      "assoc_conf": 0.65,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.7,
+      "judge_conf": 0.65
+    }
+  },
+  "chain_17134": {
+    "severity_prob": 0.6954,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.6318,
+    "apt_threshold": 0.5,
+    "org": null,
+    "org_prob": 0.0,
+    "org_margin": 0.1602,
+    "per_org_prob": {
+      "APT28": 0.5189,
+      "lazarus": 0.3587,
+      "APT32": 0.1225
+    },
+    "signals": {
+      "assoc_conf": 0.65,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.7,
+      "judge_conf": 0.65
+    }
+  },
+  "chain_88": {
+    "severity_prob": 0.739,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.9994,
+    "apt_threshold": 0.5,
+    "org": "APT28",
+    "org_prob": 1.0,
+    "org_margin": 1.0,
+    "per_org_prob": {
+      "APT28": 1.0,
+      "kimsuky": 0.0,
+      "FIN7": 0.0
+    },
+    "signals": {
+      "assoc_conf": 0.65,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.8,
+      "judge_conf": 0.65
+    }
+  },
+  "chain_2373": {
+    "severity_prob": 0.739,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.67,
+    "apt_threshold": 0.5,
+    "org": null,
+    "org_prob": 0.0,
+    "org_margin": 0.2707,
+    "per_org_prob": {
+      "Darkhotel": 0.5132,
+      "APT32": 0.2426,
+      "APT28": 0.152
+    },
+    "signals": {
+      "assoc_conf": 0.65,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.8,
+      "judge_conf": 0.65
+    }
+  },
+  "chain_23752": {
+    "severity_prob": 0.739,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.9856,
+    "apt_threshold": 0.5,
+    "org": "Sidewinder",
+    "org_prob": 0.9944,
+    "org_margin": 0.9914,
+    "per_org_prob": {
+      "Sidewinder": 0.9944,
+      "Patchwork": 0.0031,
+      "TA444": 0.0025
+    },
+    "signals": {
+      "assoc_conf": 0.65,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.8,
+      "judge_conf": 0.65
+    }
+  },
+  "chain_13161": {
+    "severity_prob": 0.739,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.643,
+    "apt_threshold": 0.5,
+    "org": null,
+    "org_prob": 0.0,
+    "org_margin": 0.254,
+    "per_org_prob": {
+      "APT-C-09": 0.4453,
+      "FIN7": 0.1913,
+      "APT28": 0.1886
+    },
+    "signals": {
+      "assoc_conf": 0.65,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.8,
+      "judge_conf": 0.65
+    }
+  },
+  "chain_3728": {
+    "severity_prob": 0.8662,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.6678,
+    "apt_threshold": 0.5,
+    "org": null,
+    "org_prob": 0.0,
+    "org_margin": 0.0035,
+    "per_org_prob": {
+      "FIN7": 0.3557,
+      "APT28": 0.3522,
+      "lazarus": 0.1642
+    },
+    "signals": {
+      "assoc_conf": 0.85,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.9,
+      "judge_conf": 0.85
+    }
+  },
+  "chain_17057": {
+    "severity_prob": 0.8662,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.73,
+    "apt_threshold": 0.5,
+    "org": null,
+    "org_prob": 0.0,
+    "org_margin": 0.2302,
+    "per_org_prob": {
+      "Sidewinder": 0.4503,
+      "APT32": 0.2201,
+      "APT28": 0.1843
+    },
+    "signals": {
+      "assoc_conf": 0.85,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.9,
+      "judge_conf": 0.85
+    }
+  },
+  "chain_23356": {
+    "severity_prob": 0.9985,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.9605,
+    "apt_threshold": 0.5,
+    "org": null,
+    "org_prob": 0.0,
+    "org_margin": 0.1674,
+    "per_org_prob": {
+      "APT32": 0.3964,
+      "lazarus": 0.229,
+      "APT28": 0.2003
+    },
+    "signals": {
+      "assoc_conf": 0.85,
+      "judge_level": 0.8,
+      "judge_risk_norm": 1.0,
+      "judge_conf": 0.85
+    }
+  },
+  "chain_16571": {
+    "severity_prob": 0.8662,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.7559,
+    "apt_threshold": 0.5,
+    "org": null,
+    "org_prob": 0.0,
+    "org_margin": 0.2947,
+    "per_org_prob": {
+      "APT-C-09": 0.5091,
+      "APT28": 0.2144,
+      "Bitter": 0.1506
+    },
+    "signals": {
+      "assoc_conf": 0.85,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.9,
+      "judge_conf": 0.85
+    }
+  },
+  "chain_5869": {
+    "severity_prob": 0.8662,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.7809,
+    "apt_threshold": 0.5,
+    "org": "APT32",
+    "org_prob": 0.5674,
+    "org_margin": 0.3639,
+    "per_org_prob": {
+      "APT32": 0.5674,
+      "APT28": 0.2035,
+      "lazarus": 0.137
+    },
+    "signals": {
+      "assoc_conf": 0.85,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.9,
+      "judge_conf": 0.85
+    }
+  },
+  "chain_404": {
+    "severity_prob": 0.6954,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.6195,
+    "apt_threshold": 0.5,
+    "org": null,
+    "org_prob": 0.0,
+    "org_margin": 0.24,
+    "per_org_prob": {
+      "Darkhotel": 0.455,
+      "APT28": 0.2151,
+      "APT32": 0.1443
+    },
+    "signals": {
+      "assoc_conf": 0.65,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.7,
+      "judge_conf": 0.65
+    }
+  },
+  "chain_1867": {
+    "severity_prob": 0.6954,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.6133,
+    "apt_threshold": 0.5,
+    "org": null,
+    "org_prob": 0.0,
+    "org_margin": 0.1603,
+    "per_org_prob": {
+      "APT28": 0.4696,
+      "lazarus": 0.3093,
+      "APT32": 0.2211
+    },
+    "signals": {
+      "assoc_conf": 0.65,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.7,
+      "judge_conf": 0.65
+    }
+  },
+  "chain_13753": {
+    "severity_prob": 0.739,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.7883,
+    "apt_threshold": 0.5,
+    "org": "APT34",
+    "org_prob": 0.7566,
+    "org_margin": 0.5132,
+    "per_org_prob": {
+      "APT34": 0.7566,
+      "APT28": 0.2434,
+      "APT32": 0.0
+    },
+    "signals": {
+      "assoc_conf": 0.65,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.8,
+      "judge_conf": 0.65
+    }
+  },
+  "chain_21325": {
+    "severity_prob": 0.739,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.6426,
+    "apt_threshold": 0.5,
+    "org": null,
+    "org_prob": 0.0,
+    "org_margin": 0.1952,
+    "per_org_prob": {
+      "APT28": 0.4673,
+      "lazarus": 0.2721,
+      "FIN7": 0.2597
+    },
+    "signals": {
+      "assoc_conf": 0.65,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.8,
+      "judge_conf": 0.65
+    }
+  },
+  "chain_20197": {
+    "severity_prob": 0.739,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.6792,
+    "apt_threshold": 0.5,
+    "org": null,
+    "org_prob": 0.0,
+    "org_margin": 0.3456,
+    "per_org_prob": {
+      "APT34": 0.5084,
+      "APT28": 0.1628,
+      "lazarus": 0.1342
+    },
+    "signals": {
+      "assoc_conf": 0.65,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.8,
+      "judge_conf": 0.65
+    }
+  },
+  "chain_616": {
+    "severity_prob": 0.6954,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.7351,
+    "apt_threshold": 0.5,
+    "org": "Darkhotel",
+    "org_prob": 0.6791,
+    "org_margin": 0.4724,
+    "per_org_prob": {
+      "Darkhotel": 0.6791,
+      "APT28": 0.2067,
+      "FIN7": 0.113
+    },
+    "signals": {
+      "assoc_conf": 0.65,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.7,
+      "judge_conf": 0.65
+    }
+  },
+  "chain_25380": {
+    "severity_prob": 0.8662,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.7615,
+    "apt_threshold": 0.5,
+    "org": null,
+    "org_prob": 0.0,
+    "org_margin": 0.3535,
+    "per_org_prob": {
+      "APT28": 0.5035,
+      "APT32": 0.15,
+      "lazarus": 0.1365
+    },
+    "signals": {
+      "assoc_conf": 0.85,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.9,
+      "judge_conf": 0.85
+    }
+  },
+  "chain_4140": {
+    "severity_prob": 0.739,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.7284,
+    "apt_threshold": 0.5,
+    "org": "Bitter",
+    "org_prob": 0.6248,
+    "org_margin": 0.4112,
+    "per_org_prob": {
+      "Bitter": 0.6248,
+      "APT28": 0.2137,
+      "FIN7": 0.1615
+    },
+    "signals": {
+      "assoc_conf": 0.65,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.8,
+      "judge_conf": 0.65
+    }
+  },
+  "chain_1848": {
+    "severity_prob": 0.739,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.6269,
+    "apt_threshold": 0.5,
+    "org": null,
+    "org_prob": 0.0,
+    "org_margin": 0.1955,
+    "per_org_prob": {
+      "FIN7": 0.4253,
+      "APT28": 0.2298,
+      "lazarus": 0.2057
+    },
+    "signals": {
+      "assoc_conf": 0.65,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.8,
+      "judge_conf": 0.65
+    }
+  },
+  "chain_17393": {
+    "severity_prob": 0.739,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.5831,
+    "apt_threshold": 0.5,
+    "org": null,
+    "org_prob": 0.0,
+    "org_margin": 0.0616,
+    "per_org_prob": {
+      "APT28": 0.3646,
+      "lazarus": 0.303,
+      "FIN7": 0.1765
+    },
+    "signals": {
+      "assoc_conf": 0.65,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.8,
+      "judge_conf": 0.65
+    }
+  },
+  "chain_4970": {
+    "severity_prob": 0.739,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.6292,
+    "apt_threshold": 0.5,
+    "org": null,
+    "org_prob": 0.0,
+    "org_margin": 0.2157,
+    "per_org_prob": {
+      "FIN7": 0.4236,
+      "lazarus": 0.2079,
+      "APT28": 0.1543
+    },
+    "signals": {
+      "assoc_conf": 0.65,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.8,
+      "judge_conf": 0.65
+    }
+  },
+  "chain_17604": {
+    "severity_prob": 0.739,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.5999,
+    "apt_threshold": 0.5,
+    "org": null,
+    "org_prob": 0.0,
+    "org_margin": 0.112,
+    "per_org_prob": {
+      "APT28": 0.3876,
+      "lazarus": 0.2755,
+      "APT-C-09": 0.1955
+    },
+    "signals": {
+      "assoc_conf": 0.65,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.8,
+      "judge_conf": 0.65
+    }
+  },
+  "chain_19835": {
+    "severity_prob": 0.6954,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.6421,
+    "apt_threshold": 0.5,
+    "org": null,
+    "org_prob": 0.0,
+    "org_margin": 0.2162,
+    "per_org_prob": {
+      "Sidewinder": 0.5249,
+      "lazarus": 0.3087,
+      "APT28": 0.1663
+    },
+    "signals": {
+      "assoc_conf": 0.65,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.7,
+      "judge_conf": 0.65
+    }
+  },
+  "chain_13519": {
+    "severity_prob": 0.739,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.7355,
+    "apt_threshold": 0.5,
+    "org": "Equation",
+    "org_prob": 0.6254,
+    "org_margin": 0.4584,
+    "per_org_prob": {
+      "Equation": 0.6254,
+      "APT28": 0.167,
+      "APT32": 0.132
+    },
+    "signals": {
+      "assoc_conf": 0.65,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.8,
+      "judge_conf": 0.65
+    }
+  },
+  "chain_18503": {
+    "severity_prob": 0.739,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.6285,
+    "apt_threshold": 0.5,
+    "org": null,
+    "org_prob": 0.0,
+    "org_margin": 0.2017,
+    "per_org_prob": {
+      "lazarus": 0.4271,
+      "APT32": 0.2254,
+      "APT28": 0.2054
+    },
+    "signals": {
+      "assoc_conf": 0.65,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.8,
+      "judge_conf": 0.65
+    }
+  },
+  "chain_14094": {
+    "severity_prob": 0.6954,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.6914,
+    "apt_threshold": 0.5,
+    "org": "APT32",
+    "org_prob": 0.5992,
+    "org_margin": 0.37,
+    "per_org_prob": {
+      "APT32": 0.5992,
+      "APT28": 0.2292,
+      "lazarus": 0.1716
+    },
+    "signals": {
+      "assoc_conf": 0.65,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.7,
+      "judge_conf": 0.65
+    }
+  },
+  "chain_12205": {
+    "severity_prob": 0.739,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.6629,
+    "apt_threshold": 0.5,
+    "org": null,
+    "org_prob": 0.0,
+    "org_margin": 0.2685,
+    "per_org_prob": {
+      "lazarus": 0.4941,
+      "APT32": 0.2256,
+      "APT28": 0.1841
+    },
+    "signals": {
+      "assoc_conf": 0.65,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.8,
+      "judge_conf": 0.65
+    }
+  },
+  "chain_3061": {
+    "severity_prob": 0.8662,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.713,
+    "apt_threshold": 0.5,
+    "org": null,
+    "org_prob": 0.0,
+    "org_margin": 0.2042,
+    "per_org_prob": {
+      "Bitter": 0.4085,
+      "APT28": 0.2043,
+      "APT-C-09": 0.1857
+    },
+    "signals": {
+      "assoc_conf": 0.85,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.9,
+      "judge_conf": 0.85
+    }
+  },
+  "chain_9001": {
+    "severity_prob": 0.739,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.6395,
+    "apt_threshold": 0.5,
+    "org": null,
+    "org_prob": 0.0,
+    "org_margin": 0.2285,
+    "per_org_prob": {
+      "APT-C-09": 0.4459,
+      "APT28": 0.2173,
+      "lazarus": 0.2082
+    },
+    "signals": {
+      "assoc_conf": 0.65,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.8,
+      "judge_conf": 0.65
+    }
+  },
+  "chain_1587": {
+    "severity_prob": 0.739,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.7111,
+    "apt_threshold": 0.5,
+    "org": "APT28",
+    "org_prob": 0.5648,
+    "org_margin": 0.4299,
+    "per_org_prob": {
+      "APT28": 0.5648,
+      "APT32": 0.135,
+      "FIN7": 0.1068
+    },
+    "signals": {
+      "assoc_conf": 0.65,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.8,
+      "judge_conf": 0.65
+    }
+  },
+  "chain_7632": {
+    "severity_prob": 0.7966,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.6414,
+    "apt_threshold": 0.5,
+    "org": null,
+    "org_prob": 0.0,
+    "org_margin": 0.1842,
+    "per_org_prob": {
+      "Equation": 0.3699,
+      "APT28": 0.1858,
+      "APT32": 0.1747
+    },
+    "signals": {
+      "assoc_conf": 0.65,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.9,
+      "judge_conf": 0.65
+    }
+  },
+  "chain_1521": {
+    "severity_prob": 0.739,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.6554,
+    "apt_threshold": 0.5,
+    "org": null,
+    "org_prob": 0.0,
+    "org_margin": 0.2063,
+    "per_org_prob": {
+      "FIN7": 0.4981,
+      "APT28": 0.2918,
+      "APT32": 0.2102
+    },
+    "signals": {
+      "assoc_conf": 0.65,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.8,
+      "judge_conf": 0.65
+    }
+  },
+  "chain_9838": {
+    "severity_prob": 0.6954,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.599,
+    "apt_threshold": 0.5,
+    "org": null,
+    "org_prob": 0.0,
+    "org_margin": 0.2128,
+    "per_org_prob": {
+      "APT32": 0.4127,
+      "APT28": 0.1999,
+      "APT34": 0.1446
+    },
+    "signals": {
+      "assoc_conf": 0.65,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.7,
+      "judge_conf": 0.65
+    }
+  },
+  "chain_10257": {
+    "severity_prob": 0.8662,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.7385,
+    "apt_threshold": 0.5,
+    "org": null,
+    "org_prob": 0.0,
+    "org_margin": 0.2057,
+    "per_org_prob": {
+      "FIN7": 0.4872,
+      "APT28": 0.2815,
+      "lazarus": 0.2313
+    },
+    "signals": {
+      "assoc_conf": 0.85,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.9,
+      "judge_conf": 0.85
+    }
+  },
+  "chain_10026": {
+    "severity_prob": 0.739,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.6577,
+    "apt_threshold": 0.5,
+    "org": null,
+    "org_prob": 0.0,
+    "org_margin": 0.2664,
+    "per_org_prob": {
+      "lazarus": 0.4805,
+      "APT32": 0.2141,
+      "APT28": 0.184
+    },
+    "signals": {
+      "assoc_conf": 0.65,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.8,
+      "judge_conf": 0.65
+    }
+  },
+  "chain_13333": {
+    "severity_prob": 0.739,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.6106,
+    "apt_threshold": 0.5,
+    "org": null,
+    "org_prob": 0.0,
+    "org_margin": 0.1613,
+    "per_org_prob": {
+      "FIN7": 0.3965,
+      "APT28": 0.2352,
+      "lazarus": 0.189
+    },
+    "signals": {
+      "assoc_conf": 0.65,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.8,
+      "judge_conf": 0.65
+    }
+  },
+  "chain_1251": {
+    "severity_prob": 0.739,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.6495,
+    "apt_threshold": 0.5,
+    "org": null,
+    "org_prob": 0.0,
+    "org_margin": 0.2634,
+    "per_org_prob": {
+      "FIN7": 0.4592,
+      "APT28": 0.1958,
+      "APT32": 0.1774
+    },
+    "signals": {
+      "assoc_conf": 0.65,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.8,
+      "judge_conf": 0.65
+    }
+  },
+  "chain_16829": {
+    "severity_prob": 0.6954,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.5462,
+    "apt_threshold": 0.5,
+    "org": null,
+    "org_prob": 0.0,
+    "org_margin": 0.1309,
+    "per_org_prob": {
+      "APT34": 0.3174,
+      "APT32": 0.1865,
+      "APT28": 0.1785
+    },
+    "signals": {
+      "assoc_conf": 0.65,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.7,
+      "judge_conf": 0.65
+    }
+  },
+  "chain_23563": {
+    "severity_prob": 0.739,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.5802,
+    "apt_threshold": 0.5,
+    "org": null,
+    "org_prob": 0.0,
+    "org_margin": 0.0606,
+    "per_org_prob": {
+      "APT34": 0.3582,
+      "APT28": 0.2976,
+      "APT32": 0.2193
+    },
+    "signals": {
+      "assoc_conf": 0.65,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.8,
+      "judge_conf": 0.65
+    }
+  },
+  "chain_16597": {
+    "severity_prob": 0.6954,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.5254,
+    "apt_threshold": 0.5,
+    "org": null,
+    "org_prob": 0.0,
+    "org_margin": 0.0307,
+    "per_org_prob": {
+      "Sidewinder": 0.3051,
+      "APT28": 0.2743,
+      "APT32": 0.2485
+    },
+    "signals": {
+      "assoc_conf": 0.65,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.7,
+      "judge_conf": 0.65
+    }
+  },
+  "chain_22202": {
+    "severity_prob": 0.739,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.6013,
+    "apt_threshold": 0.5,
+    "org": null,
+    "org_prob": 0.0,
+    "org_margin": 0.1426,
+    "per_org_prob": {
+      "APT32": 0.38,
+      "APT28": 0.2374,
+      "lazarus": 0.1866
+    },
+    "signals": {
+      "assoc_conf": 0.65,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.8,
+      "judge_conf": 0.65
+    }
+  },
+  "chain_17906": {
+    "severity_prob": 0.6954,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.9993,
+    "apt_threshold": 0.5,
+    "org": "APT28",
+    "org_prob": 1.0,
+    "org_margin": 1.0,
+    "per_org_prob": {
+      "APT28": 1.0,
+      "kimsuky": 0.0,
+      "Darkhotel": 0.0
+    },
+    "signals": {
+      "assoc_conf": 0.65,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.7,
+      "judge_conf": 0.65
+    }
+  },
+  "chain_5502": {
+    "severity_prob": 0.739,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.6828,
+    "apt_threshold": 0.5,
+    "org": null,
+    "org_prob": 0.0,
+    "org_margin": 0.28,
+    "per_org_prob": {
+      "FIN7": 0.5457,
+      "APT28": 0.2657,
+      "lazarus": 0.1886
+    },
+    "signals": {
+      "assoc_conf": 0.65,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.8,
+      "judge_conf": 0.65
+    }
+  },
+  "chain_24710": {
+    "severity_prob": 0.8662,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.7707,
+    "apt_threshold": 0.5,
+    "org": null,
+    "org_prob": 0.0,
+    "org_margin": 0.3428,
+    "per_org_prob": {
+      "FIN7": 0.5401,
+      "APT28": 0.1973,
+      "APT32": 0.1232
+    },
+    "signals": {
+      "assoc_conf": 0.85,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.9,
+      "judge_conf": 0.85
+    }
+  },
+  "chain_10948": {
+    "severity_prob": 0.739,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.6522,
+    "apt_threshold": 0.5,
+    "org": null,
+    "org_prob": 0.0,
+    "org_margin": 0.0771,
+    "per_org_prob": {
+      "lazarus": 0.5385,
+      "APT28": 0.4615,
+      "APT-C-09": 0.0
+    },
+    "signals": {
+      "assoc_conf": 0.65,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.8,
+      "judge_conf": 0.65
+    }
+  },
+  "chain_10802": {
+    "severity_prob": 0.6954,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.6032,
+    "apt_threshold": 0.5,
+    "org": null,
+    "org_prob": 0.0,
+    "org_margin": 0.1659,
+    "per_org_prob": {
+      "APT32": 0.4412,
+      "lazarus": 0.2753,
+      "APT28": 0.2286
+    },
+    "signals": {
+      "assoc_conf": 0.65,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.7,
+      "judge_conf": 0.65
+    }
+  },
+  "chain_22741": {
+    "severity_prob": 0.8662,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.6781,
+    "apt_threshold": 0.5,
+    "org": null,
+    "org_prob": 0.0,
+    "org_margin": 0.1007,
+    "per_org_prob": {
+      "APT34": 0.349,
+      "APT32": 0.2483,
+      "FIN7": 0.2065
+    },
+    "signals": {
+      "assoc_conf": 0.85,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.9,
+      "judge_conf": 0.85
+    }
+  },
+  "chain_25366": {
+    "severity_prob": 0.739,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.9952,
+    "apt_threshold": 0.5,
+    "org": "Darkhotel",
+    "org_prob": 0.9988,
+    "org_margin": 0.9983,
+    "per_org_prob": {
+      "Darkhotel": 0.9988,
+      "APT34": 0.0006,
+      "Patchwork": 0.0006
+    },
+    "signals": {
+      "assoc_conf": 0.65,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.8,
+      "judge_conf": 0.65
+    }
+  },
+  "chain_829": {
+    "severity_prob": 0.739,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.6114,
+    "apt_threshold": 0.5,
+    "org": null,
+    "org_prob": 0.0,
+    "org_margin": 0.1855,
+    "per_org_prob": {
+      "lazarus": 0.3894,
+      "APT28": 0.2038,
+      "Sidewinder": 0.1571
+    },
+    "signals": {
+      "assoc_conf": 0.65,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.8,
+      "judge_conf": 0.65
+    }
+  },
+  "chain_25292": {
+    "severity_prob": 0.6954,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.6239,
+    "apt_threshold": 0.5,
+    "org": null,
+    "org_prob": 0.0,
+    "org_margin": 0.1971,
+    "per_org_prob": {
+      "APT28": 0.4836,
+      "lazarus": 0.2866,
+      "FIN7": 0.1781
+    },
+    "signals": {
+      "assoc_conf": 0.65,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.7,
+      "judge_conf": 0.65
+    }
+  },
+  "chain_19430": {
+    "severity_prob": 0.8662,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.7058,
+    "apt_threshold": 0.5,
+    "org": null,
+    "org_prob": 0.0,
+    "org_margin": 0.1048,
+    "per_org_prob": {
+      "APT34": 0.4244,
+      "APT28": 0.3196,
+      "APT32": 0.2559
+    },
+    "signals": {
+      "assoc_conf": 0.85,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.9,
+      "judge_conf": 0.85
+    }
+  },
+  "chain_19708": {
+    "severity_prob": 0.739,
+    "severity_threshold": 0.65,
+    "severity_label": "HIGH",
+    "is_apt": true,
+    "apt_prob": 0.6341,
+    "apt_threshold": 0.5,
+    "org": null,
+    "org_prob": 0.0,
+    "org_margin": 0.2169,
+    "per_org_prob": {
+      "kimsuky": 0.4361,
+      "lazarus": 0.2192,
+      "APT28": 0.1597
+    },
+    "signals": {
+      "assoc_conf": 0.65,
+      "judge_level": 0.8,
+      "judge_risk_norm": 0.8,
+      "judge_conf": 0.65
+    }
+  }
+}
